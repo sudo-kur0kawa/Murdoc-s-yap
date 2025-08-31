@@ -255,3 +255,22 @@ while True:
 
 with open(filename, "w") as file:
     json.dump(memory, file)
+
+#try a bit of a decorator
+user_input = input(print("hello, mate.\n how are you? ")
+
+def murcock_is_asking(func):
+    def hehemudz():
+        if user_input == "good":
+            print("nice one.")
+        else:
+            print("i can tell.")
+            func()
+            print("alright, get away now.")
+    return hehemudz
+
+@murcock.dont.care
+def murdontcare():
+    print("do i care or do i not?")
+    
+murdontcare()
