@@ -274,3 +274,7 @@ def murdontcare():
     print("do i care or do i not?")
     
 murdontcare()
+
+#actually, that doesn't work.
+
+print("I lol'ed")
