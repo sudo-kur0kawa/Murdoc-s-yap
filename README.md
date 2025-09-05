@@ -1,4 +1,2 @@
 # Murdoc-s-yap
-idk i got bored and make a simple if else python script where u can talk with Murdoc from Gorillaz.
-
-simply run it with ur terminal. cheers!
+this is a mini project of me trying to understand the basics of Python. I'm a Gorillaz fan so I'll use Murdoc's lovely personality.
