@@ -279,10 +279,12 @@ murdontcare()
 
 print("I lol'ed")
 
+#its for GitHub farming purpose.
+
 hello_again = input(print("how's your day? "))
 
-Def hellotoday():
-					if hello_again == "good":
-									print("awesome.")
-					else:
-									print("your problem isn't mine.")
+def hellotoday():
+	if hello_again == "good":
+		print("awesome.")
+else:
+		print("your problem isn't mine.")
