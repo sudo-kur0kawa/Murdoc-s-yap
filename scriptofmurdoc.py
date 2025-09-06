@@ -285,6 +285,7 @@ hello_again = input(print("how's your day? "))
 
 def hellotoday():
 	if hello_again == "good":
-		print("awesome.")
-else:
-		print("your problem isn't mine.")
+		for i in range(20):
+			print("awesome.")
+	else:
+		print("ok.")
