@@ -278,3 +278,11 @@ murdontcare()
 #actually, that doesn't work.
 
 print("I lol'ed")
+
+hello_again = input(print("how's your day? "))
+
+Def hellotoday():
+					if hello_again == "good":
+									print("awesome.")
+					else:
+									print("your problem isn't mine.")
